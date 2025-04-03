@@ -13,8 +13,8 @@ I code both for fun and money. Hehehe
 
 ### Languages
 <div>
-  <img src="https://github.com/VulpritProoze/VulpritProoze/edit/main/python_logo.png" width="50">
-  <img src="https://github.com/VulpritProoze/VulpritProoze/edit/main/js_logo.png" width="50">
+  <img src="https://github.com/VulpritProoze/VulpritProoze/blob/main/python_logo.png" width="50">
+  <img src="https://github.com/VulpritProoze/VulpritProoze/blob/main/js_logo.png" width="50">
 </div>
 
 ---
