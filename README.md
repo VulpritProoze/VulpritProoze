@@ -20,16 +20,16 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github.com/VulpritProoze/VulpritProoze/blob/output/github-snake-dark.svg" />
+</p>
 
 ---
 
 ### 🧑‍💻 About me
-I code both for fun and money. Hehehe
+<p>I code both for fun and money. Hehehe.</p>
+
+_Actual fact: I'm currently a 3rd year BSIT Student at University of Cebu - Main Campus._
 
 ---
 
