@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/VulpritProoze/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VulpritProoze&layout=compact&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VulpritProoze&layout=compact&theme=midnight-purple&v=2" />
   </a>
 </p>
 
