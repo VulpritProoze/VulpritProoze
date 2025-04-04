@@ -2,12 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0366d6,50:28a745,100:6f42c1&height=300&text=Hi%20there!%20👋&desc=My%20name%20is%20Ram%20Railey%20Alin...&fontAlignY=40&fontSize=60&descSize=25" />
 </p>
 
-<p align="center">🐍 Python Developer | 🌐 Web Enthusiast | 🚀 Building cool stuff with code</p>
+<div align="center">
+  🐍 Python Developer | 🌐 Web Enthusiast | 🚀 Building cool stuff with code
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ram-railey-alin-b27778255)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
+</div>
 
 ### 🧑‍💻 About me
 <p>I code both for fun and money. Hehehe.</p>
 
-_Actual fact: I'm currently a 3rd year BSIT Student at University of Cebu - Main Campus._
+_Actual fact: Still studying at University of Cebu - Main Campus as a 3rd year BSIT student._
 
 ---
 
@@ -43,7 +48,7 @@ _Actual fact: I'm currently a 3rd year BSIT Student at University of Cebu - Main
 
 <p align="center">
   <a href="https://github.com/VulpritProoze/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VulpritProoze&layout=compact&theme=midnight-purple&exclude_repo=boxModel,testtst123123" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VulpritProoze&layout=compact&theme=midnight-purple&exclude_repo=boxModel,testtst123123" />
   </a>
 </p>
 
