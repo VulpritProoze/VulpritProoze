@@ -62,7 +62,6 @@ _Actual fact: Still studying at University of Cebu - Main Campus as a 3rd year B
   <picture>
     <source media="(prefers-color-scheme:dark)" srcset="https://github.com/VulpritProoze/VulpritProoze/blob/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme:light)" srcset="https://github.com/VulpritProoze/VulpritProoze/blob/output/github-snake.svg">
-    <img src="https://github.com/VulpritProoze/VulpritProoze/blob/output/github-snake-dark.svg" />
     <img src="https://github.com/VulpritProoze/VulpritProoze/blob/output/github-snake.svg" />
   </picture>
 </p>
