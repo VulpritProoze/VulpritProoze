@@ -3,16 +3,17 @@
 </p>
 
 <div align="center">
-  🐍 Python Developer | 🌐 Web Enthusiast | 🚀 Building cool stuff with code
+  🐍 Python Developer | 🌐 Web Enthusiast | 🚀 Building cool stuff with code | 🌟 Aspiring to be an active open source projects contributor
   
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/ram-railey-alin-b27778255)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
 </div>
 
 ### 🧑‍💻 About me
-<p>I code both for fun and money. Hehehe.</p>
+<blockquote><i>The definition of insanity is doing the same things over and over again and expecting different results.
+  <p align="right">-Albert Einstein</p></i></blockquote>
 
-_Actual fact: Still studying at University of Cebu - Main Campus as a 3rd year BSIT student._
+<p align="center">    Currently a 3rd year BSIT student at University of Cebu - Main with all around skills in web development, network engineering, project management, systems administration, and UI/UX design.</p>
 
 ---
 
