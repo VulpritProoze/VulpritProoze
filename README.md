@@ -60,8 +60,6 @@
   <a href="https://github.com/VulpritProoze/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VulpritProoze&layout=compact&theme=midnight-purple&v=2" />
   </a>
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
 </p>
 
 <p align="center">
@@ -71,3 +69,9 @@
     <img src="https://github.com/VulpritProoze/VulpritProoze/blob/output/github-snake.svg" />
   </picture>
 </p>
+
+---
+### 🛠 Weekly Developments Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
