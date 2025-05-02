@@ -14,10 +14,13 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
+          SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_OS: false
-          SHOW_PROJECTS: false
-          SHOW_EDITORS: false
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
           SHOW_LANGUAGES: true
-          SHOW_LINE_COUNT: false
+          SHOW_LINE_COUNT: true
+          BLOCKS: "▓▒░"
+          LANGUAGES: 10
+          TIME_RANGE: "last_7_days"
