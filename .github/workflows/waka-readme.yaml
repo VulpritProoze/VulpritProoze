@@ -21,5 +21,5 @@ jobs:
           SHOW_LANGUAGES: true
           SHOW_LINE_COUNT: true
           BLOCKS: "🟦🟩🟨🟧🟥"
-          LANG_COUNT: 10
+          LANG_COUNT: 5
           TIME_RANGE: "last_7_days"
