@@ -13,7 +13,7 @@
 <blockquote><i>The definition of insanity is doing the same things over and over again and expecting different results.
   <p align="right">-Albert Einstein</p></i></blockquote>
 
-<p align="center">    Currently a 3rd year BSIT student at University of Cebu - Main with all around skills in web development, network engineering, project management, systems administration, and UI/UX design.</p>
+<p align="center">    A 4th year BSIT student at University of Cebu - Main with all around skills in web development, network engineering, and systems administration.</p>
 
 ---
 
