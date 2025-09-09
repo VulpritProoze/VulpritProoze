@@ -50,34 +50,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-<p align="center">
-  <a href="https://github.com/VulpritProoze/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=VulpritProoze&show_icons=true&theme=midnight-purple" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VulpritProoze/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VulpritProoze&layout=compact&theme=midnight-purple&exclude_repo=boxModel,testtst123123" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VulpritProoze/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VulpritProoze&layout=compact&theme=midnight-purple&v=2" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme:dark)" srcset="https://github.com/VulpritProoze/VulpritProoze/blob/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme:light)" srcset="https://github.com/VulpritProoze/VulpritProoze/blob/output/github-snake.svg">
-    <img src="https://github.com/VulpritProoze/VulpritProoze/blob/output/github-snake.svg" />
-  </picture>
-</p>
-
----
 ### 🛠 Weekly Developments Breakdown
 <!--START_SECTION:waka-->
 
