@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  🐍 Python Developer | 🌐 Web Enthusiast | 🚀 Building cool stuff with code | 🌟 Aspiring to be an active open source projects contributor
+  💻 Software Developer | 🌐 Web Enthusiast | 🚀 Building cool stuff with code | 🌟 Aspiring to be an active open source projects contributor
   
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ram-railey-alin-b27778255)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
