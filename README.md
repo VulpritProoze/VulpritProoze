@@ -37,12 +37,11 @@
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-ffff00?style=for-the-badge&logo=daisyui&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React TS](https://img.shields.io/badge/React%20typescript-007ACC?style=for-the-badge&logo=react&logoColor=white&color=007ACC )
-![ASP.NET Razor Pages](https://img.shields.io/badge/ASP.NET_Razor_Pages-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
 ### 🛠 Weekly Developments Breakdown
