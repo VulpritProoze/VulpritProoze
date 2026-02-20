@@ -20,6 +20,6 @@ jobs:
           SHOW_EDITORS: true
           SHOW_LANGUAGES: true
           SHOW_LINE_COUNT: true
-          BLOCKS: "🟦🟩🟨🟧🟥"
+          BLOCKS: "██████████░░░░░░░░"
           LANG_COUNT: 5
           TIME_RANGE: "last_7_days"
