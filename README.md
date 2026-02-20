@@ -59,7 +59,7 @@ XML                                32 mins               🟥🟦🟦🟦🟦�
 <!--END_SECTION:waka-->
 
 ---
-### 🟢 Commit History
+### 🐍 Commit Snek
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VulpritProoze/VulpritProoze/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VulpritProoze/VulpritProoze/output/github-snake.svg">
