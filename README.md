@@ -58,3 +58,11 @@ XML                                31 mins               🟥🟦🟦🟦🟦�
 
 <!--END_SECTION:waka-->
 
+---
+### 🟢 Commit History
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VulpritProoze/VulpritProoze/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VulpritProoze/VulpritProoze/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/output/github-snake.svg">
+</picture>
+
