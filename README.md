@@ -4,8 +4,7 @@
 
 <div align="center">
   <i>
-  💻 Software Developer <br />
-  🌐 Fullstack development <br />
+  🌐 Fullstack developer <br />
   🚀 Rocket science enthusiast <br />
   ✍️ Aspiring fantasy writer <br /><br/>
   🌟 Also, I would love to have an opportunity to be an open-source projects contributor! Please contact me if you have any ideas in mind 😄 <br /><br />
