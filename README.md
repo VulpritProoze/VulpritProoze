@@ -69,7 +69,7 @@ XML                                32 mins               ░██████�
 <br/> 
 <br />
 
-_Who wouldn't want a cool looking snake prawling around their commit history graph? No one? Just me? Really!?_
+_Who wouldn't want a cool looking snake prowling around their commit history graph? No one? Just me? Really!?_
 <br/>
 
 <picture>
