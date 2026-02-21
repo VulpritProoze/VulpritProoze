@@ -4,11 +4,12 @@
 
 <div align="center">
   <i>
-  🌐 Fullstack developer <br />
-  🚀 Rocket science enthusiast <br />
-  ✍️ Aspiring fantasy writer <br /><br/>
-  🌟 Also, I would love to have an opportunity to be an open-source projects contributor! Please contact me if you have any ideas in mind 😄 <br /><br />
-  </i>
+  🌐 Fullstack developer <br/>
+  🚀 Rocket science enthusiast <br/>
+  ✍️ Aspiring fantasy writer <br/><br/>
+  🌟 Also, I would love to have an opportunity to be an open-source projects contributor! Please contact me if you have any ideas in mind 
+  </i>😄
+  <br/><br/>
 
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ram-railey-alin-b27778255)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
@@ -32,11 +33,9 @@
   ![React](https://img.shields.io/badge/React-292929?style=flat-square&logo=react&logoColor=42DFFF)
   ![Express](https://img.shields.io/badge/Express-ffff?style=flat-square&logo=express&logoColor=black)
 </p>
-
+<p>I am a 4th year BSIT student at University of Cebu - Main, passionate in creating useful, maintainable, clean code with a tinge of existential crisis and imposter syndrome. </p>
 <blockquote><i>The definition of insanity is doing the same things over and over again and expecting different results.
-  <p align="right">-Albert Einstein</p></i></blockquote>
-
-<p align="center">I am a 4th year BSIT student at University of Cebu - Main with all around skills in web development, network engineering, and systems administration.</p>
+<p align="right">-Albert Einstein</p></i></blockquote>
 
 <br/>
 
