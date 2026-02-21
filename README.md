@@ -3,10 +3,13 @@
 </p>
 
 <div align="center">
+  <i>
   💻 Software Developer <br />
   🌐 Fullstack development <br />
-  🚀 Building cool stuff with code <br />
-  🌟 Aspiring to be an active open source projects contributor <br /><br />
+  🚀 Rocket science enthusiast <br />
+  ✍️ Aspiring fantasy writer <br /><br/>
+  🌟 Also, I would love to have an opportunity to be an open-source projects contributor! Please contact me if you have any ideas in mind 😄 <br /><br />
+  </i>
 
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ram-railey-alin-b27778255)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
