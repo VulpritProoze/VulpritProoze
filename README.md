@@ -4,7 +4,7 @@
 
 <div align="center">
   💻 Software Developer <br />
-  🌐 Web Enthusiast <br />
+  🌐 Fullstack development <br />
   🚀 Building cool stuff with code <br />
   🌟 Aspiring to be an active open source projects contributor <br /><br />
 
