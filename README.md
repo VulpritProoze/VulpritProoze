@@ -27,6 +27,8 @@
   ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+  ![React](https://img.shields.io/badge/React-292929?style=flat-square&logo=react&logoColor=42DFFF)
+  ![Express](https://img.shields.io/badge/Express-ffff?style=flat-square&logo=express&logoColor=black)
 </p>
 
 <blockquote><i>The definition of insanity is doing the same things over and over again and expecting different results.
