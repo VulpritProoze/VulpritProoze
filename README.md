@@ -6,44 +6,49 @@
   💻 Software Developer | 🌐 Web Enthusiast | 🚀 Building cool stuff with code | 🌟 Aspiring to be an active open source projects contributor
   
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ram-railey-alin-b27778255)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ramrailey123)
+  
 </div>
 
-### 🧑‍💻 About me
+<br/>
+
+**About me**
+<br/>
+
+
 <blockquote><i>The definition of insanity is doing the same things over and over again and expecting different results.
   <p align="right">-Albert Einstein</p></i></blockquote>
 
-<p align="center">    A 4th year BSIT student at University of Cebu - Main with all around skills in web development, network engineering, and systems administration.</p>
+<p align="center">    I am a 4th year BSIT student at University of Cebu - Main with all around skills in web development, network engineering, and systems administration.</p>
 
----
+<br/>
 
-### 💻 Languages
+**Languages & technologies I've worked with**
+<br />
+<br />
+
+_Not much but it's something, right?_
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://custom-icon-badges.demolab.com/badge/-C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
----
-
-### ⚙️ Technologies
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-ffff00?style=for-the-badge&logo=daisyui&logoColor=yellow)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React TS](https://img.shields.io/badge/React%20typescript-007ACC?style=for-the-badge&logo=react&logoColor=white&color=007ACC )
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-### 🛠 Weekly Developments Breakdown
+<br/>
+
+**Weekly Developments Breakdown**
+<br />
+<br />
+
+_It all comes down to one thing or another: either I did something this week, or I didn't, which I uh, err... will not remember, I think. That's why this section is right... here?_
+<br/>
+<br />
+
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -58,8 +63,15 @@ XML                                32 mins               ░██████�
 
 <!--END_SECTION:waka-->
 
----
-### 🐍 Commit Snek
+<br/>
+
+**Commit Snek**
+<br/> 
+<br />
+
+_Who wouldn't want a cool looking snake prawling around their commit history graph? No one? Just me? Really!?_
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VulpritProoze/VulpritProoze/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VulpritProoze/VulpritProoze/output/github-snake.svg">
