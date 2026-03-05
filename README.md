@@ -50,13 +50,9 @@ _It all comes down to one thing or another: either I did something this week, or
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 mins
+Total Time: 0 secs
 
-Markdown     8 mins                ░░░░░░░░░████████████████   35.68 %
-JSON         6 mins                ░░░░░░███████████████████   25.53 %
-Git Config   3 mins                ░░░██████████████████████   14.03 %
-C#           2 mins                ░░░██████████████████████   12.52 %
-XML          1 min                 ░░███████████████████████   07.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
