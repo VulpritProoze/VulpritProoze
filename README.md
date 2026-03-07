@@ -50,9 +50,13 @@ _It all comes down to one thing or another: either I did something this week, or
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 52 mins
 
-No activity tracked
+C#                                 2 hrs 32 mins         ░░░░░░░░░░░░░░░░░░░░░████   84.36 %
+XML                                8 mins                ░████████████████████████   04.87 %
+Other                              7 mins                ░████████████████████████   04.35 %
+Microsoft Visual Studio Solution   6 mins                ░████████████████████████   03.55 %
+Git Config                         2 mins                █████████████████████████   01.43 %
 ```
 
 <!--END_SECTION:waka-->
