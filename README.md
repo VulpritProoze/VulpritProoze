@@ -50,13 +50,13 @@ _It all comes down to one thing or another: either I did something this week, or
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 11 mins
+Total Time: 16 hrs 20 mins
 
-C#                                 9 hrs 41 mins         ████████████░░░░░░░░░░░░░   49.61 %
-JSON                               2 hrs 26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-XML                                2 hrs 5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-TypeScript                         1 hr 38 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Markdown                           1 hr 21 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+C#           6 hrs 15 mins         ██████████░░░░░░░░░░░░░░░   37.85 %
+JSON         2 hrs 22 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Bash         1 hr 38 mins          ███░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+TypeScript   1 hr 35 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Markdown     1 hr 33 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 %
 ```
 
 <!--END_SECTION:waka-->
