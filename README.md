@@ -66,7 +66,7 @@ Bash         2 hrs 35 mins         ██░░░░░░░░░░░░░
 **Commit Snek**
 <br/> 
 
-_Who wouldn't want a cool looking snake prowling around their commit history graph? No one? Just me? Really!?_
+_Who wouldn't want a cool looking snake prowling around their commit history graph?_
 <br/>
 
 <picture>
