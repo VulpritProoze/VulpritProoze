@@ -13,9 +13,12 @@
 ### 🛠️ tools
 
 ```
-dotnet core  ████████████░░  pretty comfortable
-django       ███████████░░░  getting there
-debugging    ██░░░░░░░░░░░░  eternal struggle
+dotnet core      ████████████░░  pretty comfortable
+django           ███████████░░░  getting there
+react + ts       █████████░░░░░  building confidence
+express          ████████░░░░░░  solid enough
+flask            ██████░░░░░░░░  forsaken
+debugging        ██░░░░░░░░░░░░  eternal struggle
 ```
 
 
@@ -24,6 +27,16 @@ debugging    ██░░░░░░░░░░░░  eternal struggle
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<br/>
+
+### 🔭 currently working on
+
+```
+→ clean architecture      trying to write code my future self won't hate
+→ azure container apps    kubernetes but make it less scary
+→ how erp systems work    turns out "the business" is very complicated
+```
 
 
 ### 🌙 outside of work hours
@@ -35,6 +48,7 @@ debugging    ██░░░░░░░░░░░░  eternal struggle
 
 
 ### 📬 find me elsewhere
+*don't be a stranger (unless you're a recruiter, then please do)*
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ram-railey-alin-b27778255)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
