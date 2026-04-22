@@ -26,6 +26,17 @@ debugging        ██░░░░░░░░░░░░  eternal struggle
 *(powered by wakatime — aka my evidence that i am, in fact, doing things)*
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 6 hrs 4 mins
+
+TypeScript   4 hrs 50 mins         ████████████████░░░░░░░░░   65.25 %
+Other        1 hr 20 mins          █████░░░░░░░░░░░░░░░░░░░░   18.10 %
+C#           27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Markdown     17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+HTML         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
