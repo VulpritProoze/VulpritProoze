@@ -1,4 +1,4 @@
-### hey there, i'm Ram Railey Alin 👋
+## hey there, i'm Ram Railey Alin 👋
 
 > *software developer by day, fantasy novelist by night, functioning human being on weekends*
 
