@@ -1,77 +1,45 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Hi%20there!&desc=My%20name%20is%20Ram%20Railey%20Alin...&descAlign=50&fontAlignY=40&fontSize=60&descSize=25%fontColor=ffff&animation=twinkling" />
-</p>
+### hey there, i'm Ram Railey Alin 👋
 
-<div align="center">
-  <i>
-  🌐 Fullstack developer <br/>
-  🚀 Rocket science enthusiast <br/>
-  ✍️ Aspiring fantasy writer <br/><br/>
-  🌟 Also, I would love to have an opportunity to be an open-source projects contributor! Please contact me if you have any ideas in mind 
-  </i>😄
-  <br/><br/>
+> *software developer by day, fantasy novelist by night, functioning human being on weekends*
 
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ram-railey-alin-b27778255)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ramrailey123)
-  
-</div>
+### 🧑‍💻 what i do (professionally, allegedly)
 
-<br/>
+- wrangling _ASP.NET Core_ and _Django_ into doing what i want *(they don't always listen)*
+- fullstack development — yes, i do both sides, no i don't sleep
+- technical collaboration, which is a fancy way of saying i talk to people *and* write code
+- currently surviving my internship @ **Alliance Software Inc.** 🏢
 
-**About me**
-<br/>
+ 
+### 🛠️ tools
 
-<p>
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![C#](https://custom-icon-badges.demolab.com/badge/-C%23-%23239120.svg?style=flat-square&logo=cshrp&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
-  ![React](https://img.shields.io/badge/React-292929?style=flat-square&logo=react&logoColor=42DFFF)
-  ![Express](https://img.shields.io/badge/Express-ffff?style=flat-square&logo=express&logoColor=black)
-</p>
-<p>I am a 4th year BSIT student at University of Cebu - Main, passionate in creating useful, maintainable, clean code with a tinge of existential crisis and imposter syndrome. </p>
-<blockquote><i>The definition of insanity is doing the same things over and over again and expecting different results.
-<p align="right">-Albert Einstein</p></i></blockquote>
-
-<br/>
-
-**Weekly Developments Breakdown**
-<br />
-
-_It all comes down to one thing or another: either I did something this week, or I didn't, which I uh, err... will not remember, I think. That's why this section is right... here?_
-<br/>
-<br />
-
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 6 hrs 4 mins
-
-TypeScript   4 hrs 50 mins         ████████████████░░░░░░░░░   65.25 %
-Other        1 hr 20 mins          █████░░░░░░░░░░░░░░░░░░░░   18.10 %
-C#           27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Markdown     17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-HTML         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+```
+dotnet core  ████████████░░  pretty comfortable
+django       ███████████░░░  getting there
+debugging    ██░░░░░░░░░░░░  eternal struggle
 ```
 
+
+### ⏱️ this week in code
+*(powered by wakatime — aka my evidence that i am, in fact, doing things)*
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br/>
 
-**Commit Snek**
-<br/> 
+### 🌙 outside of work hours
 
-_Who wouldn't want a cool looking snake prowling around their commit history graph?_
-<br/>
+- 🎬 watching movies — my letterboxd is a cry for help
+- 📖 reading fantasy fiction *(tolkien understands me)*
+- ✍️ writing fantasy fiction *(one day i'll finish a chapter)*
+- 🧃 hanging out with friends and pretending i'm an extrovert
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VulpritProoze/VulpritProoze/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VulpritProoze/VulpritProoze/output/github-snake.svg">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/output/github-snake.svg">
-</picture>
 
+### 📬 find me elsewhere
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ram-railey-alin-b27778255)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raileyalin@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ramrailey123)
+
+
+---
+*made with caffeine, stubbornness, and mild delusion*
