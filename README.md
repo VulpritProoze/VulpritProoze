@@ -39,7 +39,6 @@ HTML         14 mins               █░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br/>
 
 ### 🔭 currently working on
 
