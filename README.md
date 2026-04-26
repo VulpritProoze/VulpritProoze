@@ -28,13 +28,13 @@ debugging        ██░░░░░░░░░░░░  eternal struggle
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 9 mins
+Total Time: 3 hrs 51 mins
 
-C#             2 hrs 55 mins         ████████░░░░░░░░░░░░░░░░░   33.64 %
-Other          2 hrs 31 mins         ███████░░░░░░░░░░░░░░░░░░   29.06 %
-TypeScript     2 hrs 21 mins         ███████░░░░░░░░░░░░░░░░░░   27.09 %
-Markdown       20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-HTML           14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+C#             2 hrs 28 mins         ███████████░░░░░░░░░░░░░░   43.84 %
+Other          1 hr 46 mins          ████████░░░░░░░░░░░░░░░░░   31.49 %
+TypeScript     1 hr                  █████░░░░░░░░░░░░░░░░░░░░   17.86 %
+XML            9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Markdown       6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
