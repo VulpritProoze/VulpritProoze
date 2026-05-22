@@ -28,12 +28,12 @@ debugging        ██░░░░░░░░░░░░  eternal struggle
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 51 mins
+Total Time: 1 hr 34 mins
 
-Other        52 mins               ██████████░░░░░░░░░░░░░░░   40.12 %
-Markdown     43 mins               ████████░░░░░░░░░░░░░░░░░   32.76 %
-JSON         28 mins               ██████░░░░░░░░░░░░░░░░░░░   22.08 %
-TypeScript   6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Markdown     54 mins               █████████████░░░░░░░░░░░░   51.66 %
+JSON         33 mins               ████████░░░░░░░░░░░░░░░░░   31.87 %
+Other        10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+TypeScript   6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
