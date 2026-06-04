@@ -28,13 +28,13 @@ debugging        ██░░░░░░░░░░░░  eternal struggle
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 44 mins
+Total Time: 1 hr 55 mins
 
-Markdown     1 hr 7 mins           ████████████████░░░░░░░░░   64.68 %
-JSON         20 mins               █████░░░░░░░░░░░░░░░░░░░░   19.10 %
-JavaScript   13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
-TypeScript   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown     1 hr 13 mins          ████████████████░░░░░░░░░   63.51 %
+JSON         20 mins               ████░░░░░░░░░░░░░░░░░░░░░   17.26 %
+JavaScript   13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Text         5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+TypeScript   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
