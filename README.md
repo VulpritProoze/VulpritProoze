@@ -28,10 +28,9 @@ debugging        ██░░░░░░░░░░░░  eternal struggle
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 mins
+Total Time: 0 secs
 
-Markdown   5 mins                █████████████░░░░░░░░░░░░   52.56 %
-Text       5 mins                ████████████░░░░░░░░░░░░░   47.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
