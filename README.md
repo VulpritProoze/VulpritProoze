@@ -28,10 +28,9 @@ debugging        ██░░░░░░░░░░░░  eternal struggle
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 mins
+Total Time: 0 secs
 
-TypeScript   20 mins               ███████████████░░░░░░░░░░   58.57 %
-Bash         14 mins               ██████████░░░░░░░░░░░░░░░   41.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
