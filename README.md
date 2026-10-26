@@ -28,9 +28,9 @@ debugging        ██░░░░░░░░░░░░  eternal struggle
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 11 mins
 
-C#   0 secs                █████████████████████████   100.00 %
+C#   11 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
